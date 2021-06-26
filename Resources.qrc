@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bold.png</file>
+        <file>unbold.png</file>
+        <file>bold-icon-256.png</file>
+        <file>subscript.png</file>
+        <file>superscipt.png</file>
+        <file>Resume-logo-LEG.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
