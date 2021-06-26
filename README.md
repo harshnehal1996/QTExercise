@@ -25,7 +25,7 @@
   the txt file which doesn’t preserve the font and style option. Although I am aware that
   there may be an option to save it as html which I will explore later.
   3) Cannot figure out a way to organise file structure properly. Please open the project using
-  QTdesigner App
+  QTEditor App
 
 # Features :
   1) Options include “New”, “Save”, “Save As”, “Open”, “About Me”, “Exit”
