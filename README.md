@@ -29,7 +29,7 @@
 
 # Features :
   1) Options include “New”, “Save”, “Save As”, “Open”, “About Me”, “Exit”
-  2) On “Exit” user is asked if he likes to save his work
+  2) On “Exit” user is asked if he/she likes to save his work
   3) Dynamic bold, sub and superscript button
   4) Copy-paste, select-drop, sliders which all come prebuilt with QTextEdit
   5) About Me dialog box
